@@ -1,4 +1,4 @@
-# Webpack2Config
+# Webpack3Config
 Frontend assembly project using webpack
 
 > Build works on webpack 3.10.0
