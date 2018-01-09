@@ -2,7 +2,9 @@
 Frontend assembly project using webpack
 
 > Build works on webpack 3.10.0
+
 Use *npm* or *yarn* for installing dependencies and to launch webpack
+
 **To start working:**
 
 1. `clone this repo`
